@@ -11,6 +11,6 @@ Test Teardown     Finish session
 Deve logar com sucesso
     
     Do Login
-    Wait Until Page Contains    Minhas tarefas    5
+    Wait Until Page Contains    Minhas tarefa    5
 
 
